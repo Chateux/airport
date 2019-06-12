@@ -1,0 +1,8 @@
+/docker-compose.override.yaml
+/docker-compose.override.yml
+
+admin/node_modules/
+api/vendor/
+client/node_modules/
+.idea/
+
